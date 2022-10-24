@@ -1,9 +1,9 @@
 # In this project I did 
- Sending asynchronous HTTP Requests with Redux
- Adding Notifications with Material UI
- Adding Notification slice state
- Using Redux Thunk Pattern
- Creating Thunk Pattern with redux
+ Sending asynchronous HTTP Requests with Redux ||
+ Adding Notifications with Material UI ||
+ Adding Notification slice state ||
+ Using Redux Thunk Pattern ||
+ Creating Thunk Pattern with redux ||
  Sending GET HTTP request with Redux
 
 ## Available Scripts
